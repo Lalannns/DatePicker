@@ -7,53 +7,53 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		2CFBC2232E5B74BE00519DCF /* PBXContainerItemProxy */ = {
+		2CFBC2B92E5BB1C900519DCF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2CFBC2042E5B74BD00519DCF /* Project object */;
+			containerPortal = 2CFBC29A2E5BB1C800519DCF /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2CFBC20B2E5B74BD00519DCF;
+			remoteGlobalIDString = 2CFBC2A12E5BB1C800519DCF;
 			remoteInfo = DatePicker;
 		};
-		2CFBC22D2E5B74BE00519DCF /* PBXContainerItemProxy */ = {
+		2CFBC2C32E5BB1C900519DCF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2CFBC2042E5B74BD00519DCF /* Project object */;
+			containerPortal = 2CFBC29A2E5BB1C800519DCF /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2CFBC20B2E5B74BD00519DCF;
+			remoteGlobalIDString = 2CFBC2A12E5BB1C800519DCF;
 			remoteInfo = DatePicker;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2CFBC20C2E5B74BD00519DCF /* DatePicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DatePicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CFBC2222E5B74BE00519DCF /* DatePickerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DatePickerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CFBC22C2E5B74BE00519DCF /* DatePickerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DatePickerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CFBC2A22E5BB1C800519DCF /* DatePicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DatePicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CFBC2B82E5BB1C900519DCF /* DatePickerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DatePickerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CFBC2C22E5BB1C900519DCF /* DatePickerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DatePickerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		2CFBC2342E5B74BE00519DCF /* Exceptions for "DatePicker" folder in "DatePicker" target */ = {
+		2CFBC2CA2E5BB1C900519DCF /* Exceptions for "DatePicker" folder in "DatePicker" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 2CFBC20B2E5B74BD00519DCF /* DatePicker */;
+			target = 2CFBC2A12E5BB1C800519DCF /* DatePicker */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2CFBC20E2E5B74BD00519DCF /* DatePicker */ = {
+		2CFBC2A42E5BB1C800519DCF /* DatePicker */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				2CFBC2342E5B74BE00519DCF /* Exceptions for "DatePicker" folder in "DatePicker" target */,
+				2CFBC2CA2E5BB1C900519DCF /* Exceptions for "DatePicker" folder in "DatePicker" target */,
 			);
 			path = DatePicker;
 			sourceTree = "<group>";
 		};
-		2CFBC2252E5B74BE00519DCF /* DatePickerTests */ = {
+		2CFBC2BB2E5BB1C900519DCF /* DatePickerTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = DatePickerTests;
 			sourceTree = "<group>";
 		};
-		2CFBC22F2E5B74BE00519DCF /* DatePickerUITests */ = {
+		2CFBC2C52E5BB1C900519DCF /* DatePickerUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = DatePickerUITests;
 			sourceTree = "<group>";
@@ -61,21 +61,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2CFBC2092E5B74BD00519DCF /* Frameworks */ = {
+		2CFBC29F2E5BB1C800519DCF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CFBC21F2E5B74BE00519DCF /* Frameworks */ = {
+		2CFBC2B52E5BB1C900519DCF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CFBC2292E5B74BE00519DCF /* Frameworks */ = {
+		2CFBC2BF2E5BB1C900519DCF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -85,22 +85,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2CFBC2032E5B74BD00519DCF = {
+		2CFBC2992E5BB1C800519DCF = {
 			isa = PBXGroup;
 			children = (
-				2CFBC20E2E5B74BD00519DCF /* DatePicker */,
-				2CFBC2252E5B74BE00519DCF /* DatePickerTests */,
-				2CFBC22F2E5B74BE00519DCF /* DatePickerUITests */,
-				2CFBC20D2E5B74BD00519DCF /* Products */,
+				2CFBC2A42E5BB1C800519DCF /* DatePicker */,
+				2CFBC2BB2E5BB1C900519DCF /* DatePickerTests */,
+				2CFBC2C52E5BB1C900519DCF /* DatePickerUITests */,
+				2CFBC2A32E5BB1C800519DCF /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		2CFBC20D2E5B74BD00519DCF /* Products */ = {
+		2CFBC2A32E5BB1C800519DCF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2CFBC20C2E5B74BD00519DCF /* DatePicker.app */,
-				2CFBC2222E5B74BE00519DCF /* DatePickerTests.xctest */,
-				2CFBC22C2E5B74BE00519DCF /* DatePickerUITests.xctest */,
+				2CFBC2A22E5BB1C800519DCF /* DatePicker.app */,
+				2CFBC2B82E5BB1C900519DCF /* DatePickerTests.xctest */,
+				2CFBC2C22E5BB1C900519DCF /* DatePickerUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,134 +108,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2CFBC20B2E5B74BD00519DCF /* DatePicker */ = {
+		2CFBC2A12E5BB1C800519DCF /* DatePicker */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2CFBC2352E5B74BE00519DCF /* Build configuration list for PBXNativeTarget "DatePicker" */;
+			buildConfigurationList = 2CFBC2CB2E5BB1C900519DCF /* Build configuration list for PBXNativeTarget "DatePicker" */;
 			buildPhases = (
-				2CFBC2082E5B74BD00519DCF /* Sources */,
-				2CFBC2092E5B74BD00519DCF /* Frameworks */,
-				2CFBC20A2E5B74BD00519DCF /* Resources */,
+				2CFBC29E2E5BB1C800519DCF /* Sources */,
+				2CFBC29F2E5BB1C800519DCF /* Frameworks */,
+				2CFBC2A02E5BB1C800519DCF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2CFBC20E2E5B74BD00519DCF /* DatePicker */,
+				2CFBC2A42E5BB1C800519DCF /* DatePicker */,
 			);
 			name = DatePicker;
 			packageProductDependencies = (
 			);
 			productName = DatePicker;
-			productReference = 2CFBC20C2E5B74BD00519DCF /* DatePicker.app */;
+			productReference = 2CFBC2A22E5BB1C800519DCF /* DatePicker.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2CFBC2212E5B74BE00519DCF /* DatePickerTests */ = {
+		2CFBC2B72E5BB1C900519DCF /* DatePickerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2CFBC23A2E5B74BE00519DCF /* Build configuration list for PBXNativeTarget "DatePickerTests" */;
+			buildConfigurationList = 2CFBC2D02E5BB1C900519DCF /* Build configuration list for PBXNativeTarget "DatePickerTests" */;
 			buildPhases = (
-				2CFBC21E2E5B74BE00519DCF /* Sources */,
-				2CFBC21F2E5B74BE00519DCF /* Frameworks */,
-				2CFBC2202E5B74BE00519DCF /* Resources */,
+				2CFBC2B42E5BB1C900519DCF /* Sources */,
+				2CFBC2B52E5BB1C900519DCF /* Frameworks */,
+				2CFBC2B62E5BB1C900519DCF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				2CFBC2242E5B74BE00519DCF /* PBXTargetDependency */,
+				2CFBC2BA2E5BB1C900519DCF /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				2CFBC2252E5B74BE00519DCF /* DatePickerTests */,
+				2CFBC2BB2E5BB1C900519DCF /* DatePickerTests */,
 			);
 			name = DatePickerTests;
 			packageProductDependencies = (
 			);
 			productName = DatePickerTests;
-			productReference = 2CFBC2222E5B74BE00519DCF /* DatePickerTests.xctest */;
+			productReference = 2CFBC2B82E5BB1C900519DCF /* DatePickerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		2CFBC22B2E5B74BE00519DCF /* DatePickerUITests */ = {
+		2CFBC2C12E5BB1C900519DCF /* DatePickerUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2CFBC23D2E5B74BE00519DCF /* Build configuration list for PBXNativeTarget "DatePickerUITests" */;
+			buildConfigurationList = 2CFBC2D32E5BB1C900519DCF /* Build configuration list for PBXNativeTarget "DatePickerUITests" */;
 			buildPhases = (
-				2CFBC2282E5B74BE00519DCF /* Sources */,
-				2CFBC2292E5B74BE00519DCF /* Frameworks */,
-				2CFBC22A2E5B74BE00519DCF /* Resources */,
+				2CFBC2BE2E5BB1C900519DCF /* Sources */,
+				2CFBC2BF2E5BB1C900519DCF /* Frameworks */,
+				2CFBC2C02E5BB1C900519DCF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				2CFBC22E2E5B74BE00519DCF /* PBXTargetDependency */,
+				2CFBC2C42E5BB1C900519DCF /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				2CFBC22F2E5B74BE00519DCF /* DatePickerUITests */,
+				2CFBC2C52E5BB1C900519DCF /* DatePickerUITests */,
 			);
 			name = DatePickerUITests;
 			packageProductDependencies = (
 			);
 			productName = DatePickerUITests;
-			productReference = 2CFBC22C2E5B74BE00519DCF /* DatePickerUITests.xctest */;
+			productReference = 2CFBC2C22E5BB1C900519DCF /* DatePickerUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2CFBC2042E5B74BD00519DCF /* Project object */ = {
+		2CFBC29A2E5BB1C800519DCF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1630;
 				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					2CFBC20B2E5B74BD00519DCF = {
+					2CFBC2A12E5BB1C800519DCF = {
 						CreatedOnToolsVersion = 16.3;
 					};
-					2CFBC2212E5B74BE00519DCF = {
+					2CFBC2B72E5BB1C900519DCF = {
 						CreatedOnToolsVersion = 16.3;
-						TestTargetID = 2CFBC20B2E5B74BD00519DCF;
+						TestTargetID = 2CFBC2A12E5BB1C800519DCF;
 					};
-					2CFBC22B2E5B74BE00519DCF = {
+					2CFBC2C12E5BB1C900519DCF = {
 						CreatedOnToolsVersion = 16.3;
-						TestTargetID = 2CFBC20B2E5B74BD00519DCF;
+						TestTargetID = 2CFBC2A12E5BB1C800519DCF;
 					};
 				};
 			};
-			buildConfigurationList = 2CFBC2072E5B74BD00519DCF /* Build configuration list for PBXProject "DatePicker" */;
+			buildConfigurationList = 2CFBC29D2E5BB1C800519DCF /* Build configuration list for PBXProject "DatePicker" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 2CFBC2032E5B74BD00519DCF;
+			mainGroup = 2CFBC2992E5BB1C800519DCF;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 2CFBC20D2E5B74BD00519DCF /* Products */;
+			productRefGroup = 2CFBC2A32E5BB1C800519DCF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2CFBC20B2E5B74BD00519DCF /* DatePicker */,
-				2CFBC2212E5B74BE00519DCF /* DatePickerTests */,
-				2CFBC22B2E5B74BE00519DCF /* DatePickerUITests */,
+				2CFBC2A12E5BB1C800519DCF /* DatePicker */,
+				2CFBC2B72E5BB1C900519DCF /* DatePickerTests */,
+				2CFBC2C12E5BB1C900519DCF /* DatePickerUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2CFBC20A2E5B74BD00519DCF /* Resources */ = {
+		2CFBC2A02E5BB1C800519DCF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CFBC2202E5B74BE00519DCF /* Resources */ = {
+		2CFBC2B62E5BB1C900519DCF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CFBC22A2E5B74BE00519DCF /* Resources */ = {
+		2CFBC2C02E5BB1C900519DCF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -245,21 +245,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2CFBC2082E5B74BD00519DCF /* Sources */ = {
+		2CFBC29E2E5BB1C800519DCF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CFBC21E2E5B74BE00519DCF /* Sources */ = {
+		2CFBC2B42E5BB1C900519DCF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CFBC2282E5B74BE00519DCF /* Sources */ = {
+		2CFBC2BE2E5BB1C900519DCF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -269,20 +269,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		2CFBC2242E5B74BE00519DCF /* PBXTargetDependency */ = {
+		2CFBC2BA2E5BB1C900519DCF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2CFBC20B2E5B74BD00519DCF /* DatePicker */;
-			targetProxy = 2CFBC2232E5B74BE00519DCF /* PBXContainerItemProxy */;
+			target = 2CFBC2A12E5BB1C800519DCF /* DatePicker */;
+			targetProxy = 2CFBC2B92E5BB1C900519DCF /* PBXContainerItemProxy */;
 		};
-		2CFBC22E2E5B74BE00519DCF /* PBXTargetDependency */ = {
+		2CFBC2C42E5BB1C900519DCF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2CFBC20B2E5B74BD00519DCF /* DatePicker */;
-			targetProxy = 2CFBC22D2E5B74BE00519DCF /* PBXContainerItemProxy */;
+			target = 2CFBC2A12E5BB1C800519DCF /* DatePicker */;
+			targetProxy = 2CFBC2C32E5BB1C900519DCF /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		2CFBC2362E5B74BE00519DCF /* Debug */ = {
+		2CFBC2CC2E5BB1C900519DCF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -296,6 +296,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -309,7 +310,7 @@
 			};
 			name = Debug;
 		};
-		2CFBC2372E5B74BE00519DCF /* Release */ = {
+		2CFBC2CD2E5BB1C900519DCF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -323,6 +324,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -336,7 +338,7 @@
 			};
 			name = Release;
 		};
-		2CFBC2382E5B74BE00519DCF /* Debug */ = {
+		2CFBC2CE2E5BB1C900519DCF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -399,7 +401,7 @@
 			};
 			name = Debug;
 		};
-		2CFBC2392E5B74BE00519DCF /* Release */ = {
+		2CFBC2CF2E5BB1C900519DCF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -455,7 +457,7 @@
 			};
 			name = Release;
 		};
-		2CFBC23B2E5B74BE00519DCF /* Debug */ = {
+		2CFBC2D12E5BB1C900519DCF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -473,7 +475,7 @@
 			};
 			name = Debug;
 		};
-		2CFBC23C2E5B74BE00519DCF /* Release */ = {
+		2CFBC2D22E5BB1C900519DCF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -491,7 +493,7 @@
 			};
 			name = Release;
 		};
-		2CFBC23E2E5B74BE00519DCF /* Debug */ = {
+		2CFBC2D42E5BB1C900519DCF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -507,7 +509,7 @@
 			};
 			name = Debug;
 		};
-		2CFBC23F2E5B74BE00519DCF /* Release */ = {
+		2CFBC2D52E5BB1C900519DCF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -526,43 +528,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2CFBC2072E5B74BD00519DCF /* Build configuration list for PBXProject "DatePicker" */ = {
+		2CFBC29D2E5BB1C800519DCF /* Build configuration list for PBXProject "DatePicker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CFBC2382E5B74BE00519DCF /* Debug */,
-				2CFBC2392E5B74BE00519DCF /* Release */,
+				2CFBC2CE2E5BB1C900519DCF /* Debug */,
+				2CFBC2CF2E5BB1C900519DCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2CFBC2352E5B74BE00519DCF /* Build configuration list for PBXNativeTarget "DatePicker" */ = {
+		2CFBC2CB2E5BB1C900519DCF /* Build configuration list for PBXNativeTarget "DatePicker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CFBC2362E5B74BE00519DCF /* Debug */,
-				2CFBC2372E5B74BE00519DCF /* Release */,
+				2CFBC2CC2E5BB1C900519DCF /* Debug */,
+				2CFBC2CD2E5BB1C900519DCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2CFBC23A2E5B74BE00519DCF /* Build configuration list for PBXNativeTarget "DatePickerTests" */ = {
+		2CFBC2D02E5BB1C900519DCF /* Build configuration list for PBXNativeTarget "DatePickerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CFBC23B2E5B74BE00519DCF /* Debug */,
-				2CFBC23C2E5B74BE00519DCF /* Release */,
+				2CFBC2D12E5BB1C900519DCF /* Debug */,
+				2CFBC2D22E5BB1C900519DCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2CFBC23D2E5B74BE00519DCF /* Build configuration list for PBXNativeTarget "DatePickerUITests" */ = {
+		2CFBC2D32E5BB1C900519DCF /* Build configuration list for PBXNativeTarget "DatePickerUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2CFBC23E2E5B74BE00519DCF /* Debug */,
-				2CFBC23F2E5B74BE00519DCF /* Release */,
+				2CFBC2D42E5BB1C900519DCF /* Debug */,
+				2CFBC2D52E5BB1C900519DCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2CFBC2042E5B74BD00519DCF /* Project object */;
+	rootObject = 2CFBC29A2E5BB1C800519DCF /* Project object */;
 }
